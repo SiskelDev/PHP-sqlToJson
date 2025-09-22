@@ -1,6 +1,9 @@
 # PHP-sqlToJson
 This is a simplified Function for making SQL Requests and getting them back as JSON Text
 
+# Usage
+Place the `sqlToJson.php` inside of your Webpage / Project / Where you need it and import it into your PHP Script via `require_once("path/to/sqlToJson.php");`
+
 # Example
 ```PHP
 // Import the Class
