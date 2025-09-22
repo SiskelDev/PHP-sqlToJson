@@ -18,4 +18,4 @@ echo $stj->request("SELECT * FROM table");
 ```
 
 # About this Project
-This was a Simple idea of a Friend of mine and i wanted to also publish the idea for everyone that might need it.
+This was a Simple idea of a Friend of mine and he asked me to code this in PHP. I also wanted to publish the idea for everyone that might need it.
